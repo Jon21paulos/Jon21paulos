@@ -101,11 +101,11 @@
  [![Years Badge](https://badges.pufler.dev/years/teyouale)](https://badges.pufler.dev)
  [![Repos Badge](https://badges.pufler.dev/repos/teyouale)](https://badges.pufler.dev)
  
-[![Yohannes's Langaugae GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=teyouale&langs_count=8&show_icons=true&theme=&layout=compact)](https://github.com/teyouale/teyouale)
-[![Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=teyouale&show_icons=true&theme=radical)](https://github.com/teyouale/teyouale)
+[![Yohannes's Langaugae GitHub stats]
+[![Yohannes's GitHub stats]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teyouale)](https://git.io/teyouale)
-[![trophy](https://github-profile-trophy.vercel.app/?username=teyouale)](https://github.com/teyouale/teyouale)
+[![GitHub Streak]
+[![trophy]
 
 
 <!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
