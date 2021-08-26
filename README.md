@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue">Hi!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Yohannes </h1>
+<h1 align="center" style="color:red;">Hi!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Yohannes </h1>
 <h3 align="center">A passionate developer from Addis Ababa,Ethiopia</h3>
 <p>Welcome to my page! </br> I'm Yohannes, Web,Mobile Software developer from <img src="https://img.icons8.com/color/96/000000/ethiopia-circular.png" width="20"/> <b> <b>Addis Ababa, Ethiopia<b></p>
 
